@@ -6,6 +6,4 @@ Check out my channel for video tutorials:
 
 ## Get started:
 
-- cd into the folder of your choice
-- make sure `fastapi` and `uvicorn` and any other dependencies are installed
-- uvicorn app:app --reload
+- You can do a `git clone https://github.com/ZeqTech/python-fastapi-tutorials.git`
