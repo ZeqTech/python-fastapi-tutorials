@@ -2,6 +2,7 @@
 #
 # Run this file with:
 # - uvicorn inline.app:app --reload
+# - go to http://localhost:8000/docs
 
 from fastapi import FastAPI, Path
 from typing import Annotated
