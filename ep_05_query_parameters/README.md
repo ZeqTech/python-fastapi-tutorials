@@ -2,7 +2,7 @@
 
 ### Check out the video on Youtube:
 
-- [https://www.youtube.com/watch?v=9J-d0S4BZXk&amp;list=PLKm_OLZcymWjyF_oG_uUkZUm0y5d9ztvl&amp;index=4](https://www.youtube.com/watch?v=9J-d0S4BZXk&list=PLKm_OLZcymWjyF_oG_uUkZUm0y5d9ztvl&index=4)
+- [https://www.youtube.com/watch?v=ZLfty-9dbSc&amp;list=PLKm_OLZcymWjyF_oG_uUkZUm0y5d9ztvl&amp;index=5](https://www.youtube.com/watch?v=ZLfty-9dbSc&list=PLKm_OLZcymWjyF_oG_uUkZUm0y5d9ztvl&index=5)
 
 ## Get started:
 
@@ -10,10 +10,10 @@
 - make sure `fastapi` and `uvicorn` and any other dependencies are installed with:
   - `pip install -r requirements.txt`
 
-### Run either of the files:
+### Run:
 
-- uvicorn inline.app:app --reload
-- uvicorn extracted.app:app --reload
+- uvicorn app:app --reload
+- uvicorn app_enum:app --reload
 
 ### Go to:
 
