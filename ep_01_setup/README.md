@@ -1,10 +1,12 @@
-# Python FastAPI Tutorials
+# Python FastAPI Tutorials - Easy API Setup
 
-Check out my channel for video tutorials:
+### Check out the video on Youtube:
 
-- [https://www.youtube.com/@zeqtech](https://www.youtube.com/@zeqtech)
+- [https://www.youtube.com/watch?v=_i3o6up4_Wo&amp;list=PLKm_OLZcymWjyF_oG_uUkZUm0y5d9ztvl&amp;index=1](https://www.youtube.com/watch?v=_i3o6up4_Wo&list=PLKm_OLZcymWjyF_oG_uUkZUm0y5d9ztvl&index=1)
 
-## Get started:
+---
+
+### Get started:
 
 - cd into this folder: `cd ep_01_setup`
 
@@ -12,16 +14,16 @@ Check out my channel for video tutorials:
 
 #### Windows
 
-- pip install fastapi uvicorn
+- `pip install fastapi uvicorn`
   or
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
 #### Mac / Linux
 
-- pip3 install fastapi uvicorn
+- `pip3 install fastapi uvicorn`
   or
-- pip3 install -r requirements.txt
+- `pip3 install -r requirements.txt`
 
 ### Run File:
 
-- uvicorn app:app --reload
+- `uvicorn app:app --reload`
